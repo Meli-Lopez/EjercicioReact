@@ -1,0 +1,35 @@
+.mensaje{
+    color : rgb(26, 196, 20);
+}
+
+header {
+    background-color: rgb(15, 7, 126);
+    padding: 30px;
+    }
+
+    nav ul {
+    color: chocolate;
+    list-style-type: none;
+    }
+
+    nav ul li {
+    color: indianred;
+    margin-left: 10px;
+    }
+
+    nav ul li a {
+    color: rgb(94, 8, 8);
+    text-decoration: none;
+    }
+
+footer {
+    background-color: purple;
+    padding: 20px;
+    margin: 0;
+    text-align: double;
+    }
+
+main {
+    background-color: rgb(174, 3, 172);
+    padding: 40px;
+    }
